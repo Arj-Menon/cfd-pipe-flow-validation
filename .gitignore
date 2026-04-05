@@ -1,0 +1,25 @@
+# ANSYS files (too large for GitHub)
+*.cas
+*.cas.h5
+*.dat
+*.dat.h5
+*.wbpj
+*.mechdb
+*.agdb
+*.dsdb
+*_files/
+
+# SolidWorks
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
